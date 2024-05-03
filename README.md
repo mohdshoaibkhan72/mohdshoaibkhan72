@@ -14,35 +14,23 @@
 </h3>
 
 
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=Mohammad+Shoaib+Khan">「 Google Me 」</a>
-    <br>
-    「 I am a full stack web application developer from <b>India</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
+
 
 <p align="center">
  <a href="https://mohdshoaibkhan72.github.io/Portfolio-Resposive-/#home" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="mohdshoaibkhan72" />
  </a>
- <a href="https://linkedin.com/in/mohdshoaibkhan72" target="_blank">
+ <a href="https://www.linkedin.com/in/shoaib72/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mohdshoaibkhan72"/>
  </a>
  <!-- <a href="https://dev.to/mohdshoaibkhan72" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="mohdshoaibkhan72" />
  </a> -->
- <a href="https://twitter.com/_mohdshoaibkhan72" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/_mohdshoaibkhan72" target="_blank">
+
+ <a href="https://www.instagram.com/mohammad_shoaibkhan11?igsh=NWRpNXZyd3dhNmYy" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="mohdshoaibkhan72" />
  </a> 
- <a href="https://facebook.com/mohdshoaibkhan72.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="mohdshoaibkhan72"  />
-  </a> 
+ 
 </p>
 <br />
 
@@ -54,7 +42,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: mohdshoaibkhan72.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: mohdshoaibkhan7211@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/mohdshoaibkhan72/mohdshoaibkhan72/issues)
 
 </p>
