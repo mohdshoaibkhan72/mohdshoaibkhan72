@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
- <a href="https://mohdshoaibkhan72.com" target="blank">
+ <a href="[https://mohdshoaibkhan72.com](https://mohdshoaibkhan72.github.io/Portfolio-Resposive-/#home)" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="mohdshoaibkhan72" />
  </a>
  <a href="https://linkedin.com/in/mohdshoaibkhan72" target="_blank">
