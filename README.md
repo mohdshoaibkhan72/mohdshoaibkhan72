@@ -1,16 +1,3 @@
-<!--
-<h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
-
-<!--
-<p align="center">
-  <a href="https://github.com/mohdshoaibkhan72"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
 
 <a href="https://komarev.com/ghpvc/?username=mohdshoaibkhan72">
   <img align="right" src="https://komarev.com/ghpvc/?username=mohdshoaibkhan72&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
@@ -38,7 +25,7 @@
 </p>
 
 <p align="center">
- <a href="[https://mohdshoaibkhan72.com](https://mohdshoaibkhan72.github.io/Portfolio-Resposive-/#home)" target="blank">
+ <a href="https://mohdshoaibkhan72.github.io/Portfolio-Resposive-/#home" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="mohdshoaibkhan72" />
  </a>
  <a href="https://linkedin.com/in/mohdshoaibkhan72" target="_blank">
