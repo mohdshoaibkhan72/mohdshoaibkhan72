@@ -1,8 +1,6 @@
-Here's an optimized and cleaner version of your GitHub README with a more modern design:
+# Mohammad Shoaib Khan
 
----
 
-### Mohammad Shoaib Khan
 
 [![Visitors](https://komarev.com/ghpvc/?username=mohdshoaibkhan72&label=Visitors&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=mohdshoaibkhan72)
 [![Wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
@@ -64,5 +62,3 @@ I'm a passionate developer who enjoys coding and sharing knowledge. I love writi
 ### 🧑‍💻 GitHub Activity
 
 ![Mohd Shoaib Khan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohdshoaibkhan72&custom_title=Mohd%20Shoaib%20Khan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
----
