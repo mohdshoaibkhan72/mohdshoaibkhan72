@@ -1,21 +1,26 @@
-# 👋 Hi, I'm Mohammad Shoaib Khan
+# Mohammad Shoaib Khan
 
-Full-stack JavaScript developer focused on building scalable, production-ready web and mobile applications with modern tooling and clean architecture.
-
-[![Visitors](https://komarev.com/ghpvc/?username=mohdshoaibkhan72&label=Profile%20Views&color=0e75b6&style=flat-square)](https://komarev.com/ghpvc/?username=mohdshoaibkhan72)
-[![Wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+**Full‑stack JavaScript developer** building scalable web and mobile apps with clean architecture and modern tooling.
 
 ---
 
-## 🔗 Quick Links
+## 📇 About
 
-- Portfolio: [mohdshoaibkhan72.com](https://mohdshoaibkhan72.com)
-- Email: [mohdshoaibkhan7211@gmail.com](mailto:mohdshoaibkhan7211@gmail.com)
-- Ask me anything via [GitHub Issues](https://github.com/mohdshoaibkhan72/mohdshoaibkhan72/issues)
+- 💻 Working with React, React Native, Node.js, Express, and MongoDB  
+- 🌱 Continuously improving performance, DX, and clean UI/UX  
+- 🚀 Interested in SaaS, fintech, dashboards, and real‑world MERN products  
 
 ---
 
-## 🌐 Connect
+## 📬 Reach Me
+
+- 🌐 Portfolio: [mohdshoaibkhan72.com](https://mohdshoaibkhan72.com)
+- ✉️ Email: [mohdshoaibkhan7211@gmail.com](mailto:mohdshoaibkhan7211@gmail.com)
+- 💬 Ask anything via [GitHub Issues](https://github.com/mohdshoaibkhan72/mohdshoaibkhan72/issues)
+
+---
+
+## 🌐 Social Links
 
 [![Website](https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohdshoaibkhan72.github.io/Portfolio-Resposive-/#home)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaib72/)
@@ -42,25 +47,18 @@ Full-stack JavaScript developer focused on building scalable, production-ready w
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Highlighted Work
 
-<a href="https://github.com/mohdshoaibkhan72">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdshoaibkhan72&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub streak" />
-</a>
-
-<a href="https://github.com/mohdshoaibkhan72">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohdshoaibkhan72&theme=radical" alt="GitHub contribution overview" />
-</a>
-
-<a href="https://github.com/mohdshoaibkhan72">
-  <img alt="GitHub stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mohdshoaibkhan72&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" />
-</a>
-<a href="https://github.com/mohdshoaibkhan72">
-  <img alt="Top languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mohdshoaibkhan72&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" />
-</a>
+- 🧾 Production‑ready MERN apps (dashboards, portals, and admin panels)  
+- 🎯 Focus on clean APIs, auth flows, and responsive UI with Tailwind CSS  
+- ☁️ Deployed with services like Vercel and custom domains  
 
 ---
 
-## 🧑‍💻 Activity
+## 📈 GitHub Overview
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohdshoaibkhan72&custom_title=Mohd%20Shoaib%20Khan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+> Keeping it simple: no heavy cards, just clean sections and real projects.
+
+- 🔹 Public projects show real‑world use cases (fintech, events, management systems)  
+- 🔹 Commit history reflects consistent learning and shipping  
+- 🔹 Repos organized by stack and use case for easy navigation  
