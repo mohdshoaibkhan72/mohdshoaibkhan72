@@ -1,34 +1,51 @@
-# Mohammad Shoaib Khan
+<!-- Clean custom banner -->
+<p align="center">
+  <img
+    src="https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/f53ce8b7-a3ba-588a-b8d7-51ca7e55aa61/84c658be-2803-51bf-be52-ca607243cf3d.jpg"
+    alt="Mohammad Shoaib Khan banner"
+  />
+</p>
 
-**Full‑stack JavaScript developer** building scalable web and mobile apps with clean architecture and modern tooling.
+<h1 align="center">Mohammad Shoaib Khan</h1>
 
----
+<p align="center">
+  <b>Full‑stack JavaScript & MERN Developer</b><br/>
+  Building scalable dashboards, SaaS products, and real‑world web apps.
+</p>
 
-## 📇 About
 
-- 💻 Working with React, React Native, Node.js, Express, and MongoDB  
-- 🌱 Continuously improving performance, DX, and clean UI/UX  
-- 🚀 Interested in SaaS, fintech, dashboards, and real‑world MERN products  
-
----
-
-## 📬 Reach Me
-
-- 🌐 Portfolio: [mohdshoaibkhan72.com](https://mohdshoaibkhan72.com)
-- ✉️ Email: [mohdshoaibkhan7211@gmail.com](mailto:mohdshoaibkhan7211@gmail.com)
-- 💬 Ask anything via [GitHub Issues](https://github.com/mohdshoaibkhan72/mohdshoaibkhan72/issues)
 
 ---
 
-## 🌐 Social Links
+## 🚀 About
 
-[![Website](https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohdshoaibkhan72.github.io/Portfolio-Resposive-/#home)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaib72/)
-[![Instagram](https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohammad_shoaibkhan11?igsh=NWRpNXZyd3dhNmYy)
+- 💻 React, React Native, Node.js, Express, MongoDB  
+- 🎯 Clean APIs, auth flows, admin dashboards, and performance‑focused UI  
+- 🌱 Exploring better DX, animations, and responsive design with Tailwind  
 
 ---
 
-## 🛠️ Tech Stack
+## 📬 Contact & Socials
+
+- 🌐 Portfolio: [mohdshoaibkhan72.com](https://mohdshoaibkhan72.com)  
+- ✉️ Email: [mohdshoaibkhan7211@gmail.com](mailto:mohdshoaibkhan7211@gmail.com)  
+- 💬 AMA: [GitHub Issues](https://github.com/mohdshoaibkhan72/mohdshoaibkhan72/issues)  
+
+<p>
+  <a href="https://mohdshoaibkhan72.github.io/Portfolio-Resposive-/#home">
+    <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shoaib72/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mohammad_shoaibkhan11?igsh=NWRpNXZyd3dhNmYy">
+    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠 Tech Stack
 
 **Frontend**
 
@@ -47,18 +64,53 @@
 
 ---
 
-## 📂 Highlighted Work
+## ⭐ Best Repositories
 
-- 🧾 Production‑ready MERN apps (dashboards, portals, and admin panels)  
-- 🎯 Focus on clean APIs, auth flows, and responsive UI with Tailwind CSS  
-- ☁️ Deployed with services like Vercel and custom domains  
+> Pin these repos on your profile for a strong first impression. [web:57]
+
+- [ApnaChallan](#) – Legal / challan management with separate admin & lawyer portals, auth, and case flows  
+- [Partypuffers](#) – Event management MERN app with bookings, admin panel, media and payments  
+- [Nyay Samadhan Pay](#) – Legal + payments workflows with secure backend and clean UI  
+- [Kabaddi Academy](#) / [Organyfy](#) – Domain‑specific apps showing complex business logic  
+
+(Replace `#` with actual repo links.)
 
 ---
 
-## 📈 GitHub Overview
+## 📊 Streak & Stats
 
-> Keeping it simple: no heavy cards, just clean sections and real projects.
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mohdshoaibkhan72&theme=radical&background=0D1117&border=7F3FBF&ring=F85D7F&fire=F85D7F&currStreakLabel=F8D866"
+    alt="GitHub streak"
+  />
+</p>
 
-- 🔹 Public projects show real‑world use cases (fintech, events, management systems)  
-- 🔹 Commit history reflects consistent learning and shipping  
-- 🔹 Repos organized by stack and use case for easy navigation  
+<p align="center">
+  <img
+    src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mohdshoaibkhan72&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+    height="180"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mohdshoaibkhan72&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+    height="180"
+    alt="Top languages"
+  />
+</p>
+
+---
+
+## 🧑‍💻 Activity & WakaTime
+
+<!-- WakaTime weekly stats (auto via GitHub Action) -->
+<!-- See waka-readme setup: https://github.com/athul/waka-readme [web:69][web:73] -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mohdshoaibkhan72&custom_title=Mohd%20Shoaib%20Khan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&area_color=F85D7F&title_color=FFFFFF"
+    alt="GitHub activity graph"
+  />
+</p>
